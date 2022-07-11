@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1f2ef66c.js",
+    "main.css": "/static/css/main.1646fe88.css",
+    "main.js": "/static/js/main.755fdf36.js",
     "static/js/787.e711b47d.chunk.js": "/static/js/787.e711b47d.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fWeb7.png": "/static/media/fWeb7.882b04a08b7607d6ed55.png",
+    "static/media/fog.png": "/static/media/fog.e4e6ec51113c0c239121.png",
+    "static/media/ElhamBook-th-800.jpg": "/static/media/ElhamBook-th-800.a4191f3267165949c973.jpg",
+    "static/media/Fardoracle-tn-800.jpg": "/static/media/Fardoracle-tn-800.5a45168756110b8b4011.jpg",
+    "static/media/wikitik-tn-800.jpg": "/static/media/wikitik-tn-800.1e19a355e40431ffe369.jpg",
+    "static/media/portfolio-tn-800.jpg": "/static/media/portfolio-tn-800.93c88552a55ceeaaa44d.jpg",
+    "static/media/HekmatLogoF2.svg": "/static/media/HekmatLogoF2.ca7f1316e16e74a90671ca659b255f68.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1f2ef66c.js.map": "/static/js/main.1f2ef66c.js.map",
+    "main.1646fe88.css.map": "/static/css/main.1646fe88.css.map",
+    "main.755fdf36.js.map": "/static/js/main.755fdf36.js.map",
     "787.e711b47d.chunk.js.map": "/static/js/787.e711b47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1f2ef66c.js"
+    "static/css/main.1646fe88.css",
+    "static/js/main.755fdf36.js"
   ]
 }
