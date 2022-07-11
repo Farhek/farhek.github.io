@@ -1,0 +1,27 @@
+@import "../node_modules/bootstrap/scss/functions";
+
+$primary:#EF8354;
+// $danger: #ff4136;
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+
+
+$theme-colors: (
+  "primary": $primary
+);
+
+
+$custom-colors: (
+  "white1": #FFF,
+  "darkk": #2D3142,
+  "tintLight1": #4F5D75,
+  "neutralLight1": #BFC0C0,
+  "playful1": #EF8354
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/mixins";
