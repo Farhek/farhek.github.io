@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d96bd05.css",
-    "main.js": "/static/js/main.65cd9223.js",
+    "main.css": "/static/css/main.1ae9a1c1.css",
+    "main.js": "/static/js/main.f9c70aea.js",
     "static/js/787.e711b47d.chunk.js": "/static/js/787.e711b47d.chunk.js",
     "static/media/fWeb7.png": "/static/media/fWeb7.882b04a08b7607d6ed55.png",
     "static/media/fog.png": "/static/media/fog.e4e6ec51113c0c239121.png",
@@ -11,12 +11,12 @@
     "static/media/portfolio-tn-800.jpg": "/static/media/portfolio-tn-800.93c88552a55ceeaaa44d.jpg",
     "static/media/HekmatLogoF2.svg": "/static/media/HekmatLogoF2.ca7f1316e16e74a90671ca659b255f68.svg",
     "index.html": "/index.html",
-    "main.9d96bd05.css.map": "/static/css/main.9d96bd05.css.map",
-    "main.65cd9223.js.map": "/static/js/main.65cd9223.js.map",
+    "main.1ae9a1c1.css.map": "/static/css/main.1ae9a1c1.css.map",
+    "main.f9c70aea.js.map": "/static/js/main.f9c70aea.js.map",
     "787.e711b47d.chunk.js.map": "/static/js/787.e711b47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d96bd05.css",
-    "static/js/main.65cd9223.js"
+    "static/css/main.1ae9a1c1.css",
+    "static/js/main.f9c70aea.js"
   ]
 }
